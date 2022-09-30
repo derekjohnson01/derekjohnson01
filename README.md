@@ -8,12 +8,10 @@
 Here are some ideas to get you started:
 -->
 * 🔭 I’m currently working on: Getting my BS in Cyber Security at Champlain College.
-* 🌱 I’m currently learning: More Automation and Scripting, Advanced Networking.
-* 🤔 I’m looking for help with: Self-hosting options I am a huge lover of being able to host things myself.
-* 💬 My goals for 2022/2023: Self-host bitwarden and mailserver and have automated backups for linux, windows desktop, and phone photos.
-* 📫 How to reach me: paul.gleason@mymail.champlain.edu
-* 😄 Pronouns: He/Him
-* ⚡ Fun fact: I used to competitively do skiercross.
+* 🌱 I’m currently learning: Building and managing an SOC and building stacks within Elastic Stack.
+* 💬 My goals for 2022/2023: Learn the skills necessary to become a security analysts or technician.
+* 📫 How to reach me: derek.johnson01@mymail.champlain.edu or by phone - 860 931 4180.
+* ⚡ Fun fact: I am a DJ and love to make music.
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChampPG)](https://github.com/anuraghazra/github-readme-stats) -->
