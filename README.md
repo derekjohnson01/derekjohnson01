@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 * 🔭 I’m currently working on: Getting my BS in Cyber Security at Champlain College.
 * 🌱 I’m currently learning: Building and managing an SOC and building stacks within Elastic Stack.
 * 💬 My goals for 2022/2023: Learn the skills necessary to become a security analysts or technician.
-* 📫 How to reach me: derek.johnson01@mymail.champlain.edu or by phone - 860 931 4180.
+* 📫 How to reach me: derek.johnson01@mymail.champlain.edu.
 * ⚡ Fun fact: I am a DJ and love to make music.
 
 
