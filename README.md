@@ -1,6 +1,6 @@
 ## Hi there, I'm Derek 👋
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gitbook.derekjohnson01.dev)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]([https://gitbook.derekjohnson01.dev](https://mymail-champlain.gitbook.io/welcome/))
 
 <!--
 **ChampPG/ChampPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
