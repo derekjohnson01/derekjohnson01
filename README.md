@@ -1,4 +1,5 @@
 ## Hi there, I'm Derek 👋
+### Click the link below to visit my Gitbook!!!
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mymail-champlain.gitbook.io/welcome/)
 
